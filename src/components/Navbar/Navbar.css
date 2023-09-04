@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #012a4a;
+  color: #fff !important;
+}
+
+.navbar-dark {
+  color: #fff !important;
+}
+
+.profile-Placeholder-img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+/* .popup-profile {
+  background-color: #fff;
+  color: black;
+  width: 12%;
+  height: 15%;
+  right: 35px;
+  position: absolute;
+  top: 60px;
+  z-index: 100 !important;
+} */
+/* .popup-content {
+  display: grid;
+  grid-template-columns: 1fr;
+  border-bottom: 1px solid black;
+  text-align: center;
+  text-decoration: none;
+} */
+/* .te1:hover {
+  background-color: #0b3954;
+  color: white;
+} */
